@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(88, 130, 130);
+    color: rgba(34, 33, 73, 0.819);
+    padding: 1%;
+}
+
+  div {
+    align-items: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  p h1 h2 h4 li {
+    font-size:2vw;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .maxheight {
+    max-height: 600px;
+  }
